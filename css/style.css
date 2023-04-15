@@ -46,8 +46,8 @@
     rgb(45 35 66 / 30%) 0 7px 13px -3px,
     rgb(58 65 111 / 50%) 0 -3px 0 inset;
   --box-shadow-2:
-    inset 5px 5px 23px -9px rgb(255 118 118 / 50%),
-    0px 7px 13px -3px rgb(39 29 145 / 50%);
+    inset 0px -3px 23px -9px rgb(255 118 118 / 50%),
+    0px 3px 13px -3px rgb(39 29 145 / 50%);
   --box-shadow-3:
     0px -3px 2px inset rgb(255 118 118 / 50%),
     0px 7px 13px -3px rgb(39 29 145 / 50%);
@@ -302,8 +302,8 @@ header {
 }
 
 .profile-pic {
-  max-width: 2em;
-  max-height: 2em;
+  max-width: 24px;
+  max-height: 24px;
 }
 
 .notifications .profile-pic {
@@ -342,7 +342,7 @@ main h1 {
   position: relative;
   z-index: index 2;
   flex-direction: column;
-  max-width: 25%;
+  max-width: 50%;
   margin: 1em;
   padding: 2em 1.5em;
   border-radius: 0;
