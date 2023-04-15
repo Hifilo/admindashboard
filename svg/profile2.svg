@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800" preserveAspectRatio="xMidYMid slice">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ffflurry-grad" gradientTransform="rotate(270)">
+			<stop stop-color="hsl(249, 36%, 46%)" stop-opacity="1" offset="0%"></stop>
+			<stop stop-color="hsl(172, 36%, 50%)" stop-opacity="1" offset="45%"></stop>
+			<stop stop-color="hsl(167, 52%, 78%)" stop-opacity="1" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<rect width="100%" height="100%" fill="hsl(249, 36%, 46%)"></rect>
+	<g fill="url(#ffflurry-grad)">
+		<rect width="672" height="14" x="-126" y="557" rx="7" transform="rotate(38, 210, 564)"></rect>
+		<rect width="1034" height="14" x="-64" y="146" rx="7" transform="rotate(38, 453, 153)"></rect>
+		<rect width="699" height="14" x="-147.5" y="722" rx="7" transform="rotate(38, 202, 729)"></rect>
+		<rect width="154" height="14" x="149" y="329" rx="7" transform="rotate(38, 226, 336)"></rect>
+		<rect width="978" height="14" x="241" y="694" rx="7" transform="rotate(38, 730, 701)"></rect>
+		<rect width="732" height="14" x="166" y="54" rx="7" transform="rotate(38, 532, 61)"></rect>
+		<rect width="910" height="14" x="108" y="339" rx="7" transform="rotate(38, 563, 346)"></rect>
+		<rect width="666" height="14" x="-50" y="107" rx="7" transform="rotate(38, 283, 114)"></rect>
+		<rect width="415" height="14" x="297.5" y="725" rx="7" transform="rotate(38, 505, 732)"></rect>
+		<rect width="199" height="14" x="619.5" y="245" rx="7" transform="rotate(38, 719, 252)"></rect>
+		<rect width="245" height="14" x="-66.5" y="91" rx="7" transform="rotate(38, 56, 98)"></rect>
+		<rect width="251" height="14" x="138.5" y="259" rx="7" transform="rotate(38, 264, 266)"></rect>
+		<rect width="684" height="14" x="-103" y="180" rx="7" transform="rotate(38, 239, 187)"></rect>
+		<rect width="720" height="14" x="61" y="685" rx="7" transform="rotate(38, 421, 692)"></rect>
+		<rect width="167" height="14" x="349.5" y="295" rx="7" transform="rotate(38, 433, 302)"></rect>
+		<rect width="1046" height="14" x="-158" y="509" rx="7" transform="rotate(38, 365, 516)"></rect>
+		<rect width="373" height="14" x="361.5" y="221" rx="7" transform="rotate(38, 548, 228)"></rect>
+		<rect width="225" height="14" x="245.5" y="206" rx="7" transform="rotate(38, 358, 213)"></rect>
+		<rect width="737" height="14" x="-48.5" y="679" rx="7" transform="rotate(38, 320, 686)"></rect>
+		<rect width="155" height="14" x="117.5" y="426" rx="7" transform="rotate(38, 195, 433)"></rect>
+		<rect width="522" height="14" x="-76" y="50" rx="7" transform="rotate(38, 185, 57)"></rect>
+		<rect width="841" height="14" x="-359.5" y="371" rx="7" transform="rotate(38, 61, 378)"></rect>
+		<rect width="1213" height="14" x="-541.5" y="722" rx="7" transform="rotate(38, 65, 729)"></rect>
+		<rect width="484" height="14" x="496" y="505" rx="7" transform="rotate(38, 738, 512)"></rect>
+		<rect width="1096" height="14" x="-481" y="566" rx="7" transform="rotate(38, 67, 573)"></rect>
+		<rect width="1110" height="14" x="100" y="413" rx="7" transform="rotate(38, 655, 420)"></rect>
+		<rect width="403" height="14" x="142.5" y="363" rx="7" transform="rotate(38, 344, 370)"></rect>
+		<rect width="237" height="14" x="576.5" y="75" rx="7" transform="rotate(38, 695, 82)"></rect>
+		<rect width="995" height="14" x="112.5" y="713" rx="7" transform="rotate(38, 610, 720)"></rect>
+		<rect width="329" height="14" x="311.5" y="434" rx="7" transform="rotate(38, 476, 441)"></rect>
+		<rect width="139" height="14" x="485.5" y="563" rx="7" transform="rotate(38, 555, 570)"></rect>
+		<rect width="195" height="14" x="15.5" y="224" rx="7" transform="rotate(38, 113, 231)"></rect>
+		<rect width="484" height="14" x="125" y="45" rx="7" transform="rotate(38, 367, 52)"></rect>
+	</g>
+</svg>

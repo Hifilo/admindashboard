@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800" preserveAspectRatio="xMidYMid slice"> opacity="0.87">
+	<defs>
+		<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="gggyrate-grad">
+			<stop stop-color="hsl(180, 50%, 62%)" stop-opacity="1" offset="0%"></stop>
+			<stop stop-color="hsl(270, 73%, 53%)" stop-opacity="1" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<g stroke-width="10.5" stroke="url(#gggyrate-grad)" fill="none">
+		<polygon points="400,8.125 -122.5,791.875 922.5,791.875" transform="rotate(137.5, 400, 400)" opacity="0.05">
+		</polygon>
+		<polygon points="400,15.25 -113,784.75 913,784.75" transform="rotate(135, 400, 400)" opacity="0.07"></polygon>
+		<polygon points="400,22.375 -103.5,777.625 903.5,777.625" transform="rotate(132.5, 400, 400)" opacity="0.09">
+		</polygon>
+		<polygon points="400,29.5 -94,770.5 894,770.5" transform="rotate(130, 400, 400)" opacity="0.10"></polygon>
+		<polygon points="400,36.625 -84.5,763.375 884.5,763.375" transform="rotate(127.5, 400, 400)" opacity="0.12">
+		</polygon>
+		<polygon points="400,43.75 -75,756.25 875,756.25" transform="rotate(125, 400, 400)" opacity="0.14"></polygon>
+		<polygon points="400,50.875 -65.5,749.125 865.5,749.125" transform="rotate(122.5, 400, 400)" opacity="0.16">
+		</polygon>
+		<polygon points="400,58 -56,742 856,742" transform="rotate(120, 400, 400)" opacity="0.17"></polygon>
+		<polygon points="400,65.125 -46.5,734.875 846.5,734.875" transform="rotate(117.5, 400, 400)" opacity="0.19">
+		</polygon>
+		<polygon points="400,72.25 -37,727.75 837,727.75" transform="rotate(115, 400, 400)" opacity="0.21"></polygon>
+		<polygon points="400,79.375 -27.5,720.625 827.5,720.625" transform="rotate(112.5, 400, 400)" opacity="0.23">
+		</polygon>
+		<polygon points="400,86.5 -18,713.5 818,713.5" transform="rotate(110, 400, 400)" opacity="0.24"></polygon>
+		<polygon points="400,93.625 -8.5,706.375 808.5,706.375" transform="rotate(107.5, 400, 400)" opacity="0.26">
+		</polygon>
+		<polygon points="400,100.75 1,699.25 799,699.25" transform="rotate(105, 400, 400)" opacity="0.28"></polygon>
+		<polygon points="400,107.875 10.5,692.125 789.5,692.125" transform="rotate(102.5, 400, 400)" opacity="0.30">
+		</polygon>
+		<polygon points="400,115 20,685 780,685" transform="rotate(100, 400, 400)" opacity="0.31"></polygon>
+		<polygon points="400,122.125 29.5,677.875 770.5,677.875" transform="rotate(97.5, 400, 400)" opacity="0.33">
+		</polygon>
+		<polygon points="400,129.25 39,670.75 761,670.75" transform="rotate(95, 400, 400)" opacity="0.35"></polygon>
+		<polygon points="400,136.375 48.5,663.625 751.5,663.625" transform="rotate(92.5, 400, 400)" opacity="0.37">
+		</polygon>
+		<polygon points="400,143.5 58,656.5 742,656.5" transform="rotate(90, 400, 400)" opacity="0.38"></polygon>
+		<polygon points="400,150.625 67.5,649.375 732.5,649.375" transform="rotate(87.5, 400, 400)" opacity="0.40">
+		</polygon>
+		<polygon points="400,157.75 77,642.25 723,642.25" transform="rotate(85, 400, 400)" opacity="0.42"></polygon>
+		<polygon points="400,164.875 86.5,635.125 713.5,635.125" transform="rotate(82.5, 400, 400)" opacity="0.44">
+		</polygon>
+		<polygon points="400,172 96,628 704,628" transform="rotate(80, 400, 400)" opacity="0.45"></polygon>
+		<polygon points="400,179.125 105.5,620.875 694.5,620.875" transform="rotate(77.5, 400, 400)" opacity="0.47">
+		</polygon>
+		<polygon points="400,186.25 115,613.75 685,613.75" transform="rotate(75, 400, 400)" opacity="0.49"></polygon>
+		<polygon points="400,193.375 124.5,606.625 675.5,606.625" transform="rotate(72.5, 400, 400)" opacity="0.51">
+		</polygon>
+		<polygon points="400,200.5 134,599.5 666,599.5" transform="rotate(70, 400, 400)" opacity="0.53"></polygon>
+		<polygon points="400,207.625 143.5,592.375 656.5,592.375" transform="rotate(67.5, 400, 400)" opacity="0.54">
+		</polygon>
+		<polygon points="400,214.75 153,585.25 647,585.25" transform="rotate(65, 400, 400)" opacity="0.56"></polygon>
+		<polygon points="400,221.875 162.5,578.125 637.5,578.125" transform="rotate(62.5, 400, 400)" opacity="0.58">
+		</polygon>
+		<polygon points="400,229 172,571 628,571" transform="rotate(60, 400, 400)" opacity="0.60"></polygon>
+		<polygon points="400,236.125 181.5,563.875 618.5,563.875" transform="rotate(57.5, 400, 400)" opacity="0.61">
+		</polygon>
+		<polygon points="400,243.25 191,556.75 609,556.75" transform="rotate(55, 400, 400)" opacity="0.63"></polygon>
+		<polygon points="400,250.375 200.5,549.625 599.5,549.625" transform="rotate(52.5, 400, 400)" opacity="0.65">
+		</polygon>
+		<polygon points="400,257.5 210,542.5 590,542.5" transform="rotate(50, 400, 400)" opacity="0.67"></polygon>
+		<polygon points="400,264.625 219.5,535.375 580.5,535.375" transform="rotate(47.5, 400, 400)" opacity="0.68">
+		</polygon>
+		<polygon points="400,271.75 229,528.25 571,528.25" transform="rotate(45, 400, 400)" opacity="0.70"></polygon>
+		<polygon points="400,278.875 238.5,521.125 561.5,521.125" transform="rotate(42.5, 400, 400)" opacity="0.72">
+		</polygon>
+		<polygon points="400,286 248,514 552,514" transform="rotate(40, 400, 400)" opacity="0.74"></polygon>
+		<polygon points="400,293.125 257.5,506.875 542.5,506.875" transform="rotate(37.5, 400, 400)" opacity="0.75">
+		</polygon>
+		<polygon points="400,300.25 267,499.75 533,499.75" transform="rotate(35, 400, 400)" opacity="0.77"></polygon>
+		<polygon points="400,307.375 276.5,492.625 523.5,492.625" transform="rotate(32.5, 400, 400)" opacity="0.79">
+		</polygon>
+		<polygon points="400,314.5 286,485.5 514,485.5" transform="rotate(30, 400, 400)" opacity="0.81"></polygon>
+		<polygon points="400,321.625 295.5,478.375 504.5,478.375" transform="rotate(27.5, 400, 400)" opacity="0.82">
+		</polygon>
+		<polygon points="400,328.75 305,471.25 495,471.25" transform="rotate(25, 400, 400)" opacity="0.84"></polygon>
+		<polygon points="400,335.875 314.5,464.125 485.5,464.125" transform="rotate(22.5, 400, 400)" opacity="0.86">
+		</polygon>
+		<polygon points="400,343 324,457 476,457" transform="rotate(20, 400, 400)" opacity="0.88"></polygon>
+		<polygon points="400,350.125 333.5,449.875 466.5,449.875" transform="rotate(17.5, 400, 400)" opacity="0.89">
+		</polygon>
+		<polygon points="400,357.25 343,442.75 457,442.75" transform="rotate(15, 400, 400)" opacity="0.91"></polygon>
+		<polygon points="400,364.375 352.5,435.625 447.5,435.625" transform="rotate(12.5, 400, 400)" opacity="0.93">
+		</polygon>
+		<polygon points="400,371.5 362,428.5 438,428.5" transform="rotate(10, 400, 400)" opacity="0.95"></polygon>
+		<polygon points="400,378.625 371.5,421.375 428.5,421.375" transform="rotate(7.5, 400, 400)" opacity="0.96">
+		</polygon>
+		<polygon points="400,385.75 381,414.25 419,414.25" transform="rotate(5, 400, 400)" opacity="0.98"></polygon>
+		<polygon points="400,392.875 390.5,407.125 409.5,407.125" transform="rotate(2.5, 400, 400)" opacity="1.00">
+		</polygon>
+	</g>
+</svg>
