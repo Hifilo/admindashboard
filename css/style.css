@@ -1,3 +1,5 @@
+/* stylelint-disable stylistic/function-parentheses-space-inside */
+
 /* * {
   box-sizing: border-box;
   margin: 0;
@@ -26,15 +28,15 @@ html {
 
   --paragraph-font-normal:
     normal normal 400 normal medium / normal 'Fredoka',
-    sans-serif;
+    var( --fallback-fonts );
 
   --paragraph-font-small:
     normal normal 400 normal small / normal 'Fredoka',
-    sans-serif;
+    var( --fallback-fonts );
 
   --paragraph-font-bold:
     normal normal 600 normal medium / normal 'Fredoka',
-    sans-serif;
+    var( --fallback-fonts );
 
   --display-font-large:
     normal normal 600 expanded 36px / normal 'Coolvetica Rg',
@@ -214,6 +216,10 @@ h2 {
   flex-direction: column;
 }
 
+
+/* CSS */
+
+
 button {
   display: inline-flex;
   position: relative;
@@ -248,7 +254,7 @@ button {
     transform;
 }
 
-.button:focus {
+.button: focus {
   box-shadow: var( --button-focus-shadow );
 }
 
@@ -275,10 +281,9 @@ p {
   color: var( --color-style-light-purple );
 
   /* font-family: "Fredoka", sans-serif;
-  font-size: small; */
+  font-size: small;
 
-  font: var( --paragraph-font-normal );
-}
+  font: var( --paragraph-font-normal );font
 
 .large-container {
   flex-wrap: wrap;
@@ -452,11 +457,11 @@ header {
   gap: 1em;
 }
 
-main {
+.main {
   padding: 1em;
 }
 
-main h1 {
+.main h1 {
   padding-top: 2em;
 }
 
@@ -468,7 +473,6 @@ main h1 {
   width: 100%;
   margin: 1em;
   padding: 2em 1.5em;
-  border-radius: 0;
   border-radius: 0 8px 8px 0;
   box-shadow: var( --box-shadow-2 );
   gap: 15px;
@@ -515,7 +519,6 @@ main h1 {
 }
 
 .gr-sidebar-b h1 {
-  padding: 0;
   padding: 1em 0;
 }
 
