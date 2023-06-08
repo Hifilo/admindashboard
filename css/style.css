@@ -1,10 +1,10 @@
 /* stylelint-disable stylistic/function-parentheses-space-inside */
 
-/* * {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-} */
+}
 
 html {
   height: 100%;
@@ -254,7 +254,7 @@ button {
     transform;
 }
 
-.button: focus {
+.button:focus {
   box-shadow: var( --button-focus-shadow );
 }
 
@@ -279,22 +279,10 @@ button:active {
 
 p {
   color: var( --color-style-light-purple );
-
-  /* font-family: "Fredoka", sans-serif;
-  font-size: small;
-
-  font: var( --paragraph-font-normal );font
-
-.large-container {
-  flex-wrap: wrap;
-
-  /* width: max-content; */
   height: fit-content;
   margin: 0;
   padding: 0;
   background-color: var( --color-style-whitebg );
-
-  /* overflow: hidden; */
 }
 
 .sub-container {
